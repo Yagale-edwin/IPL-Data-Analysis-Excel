@@ -22,6 +22,9 @@ Toss decisions
 Venues
 The dataset spans 15 seasons, enabling long-term trend analysis
 
+**Dashboard Preview
+
+
 **Key Features**
 
  KPI Cards (Total Matches, Total Teams, Toss Impact %)
@@ -37,12 +40,6 @@ The dataset spans 15 seasons, enabling long-term trend analysis
  Certain teams show consistent performance across seasons
  Venue plays a role in influencing match results
  Team dominance trends vary across different IPL eras
- 
-**Time-Based Analysis**
-
-2008–2012: Initial growth and team experimentation
-2013–2017: Stable team performance and strategy shifts
-2018–2022: Emergence of new dominant teams and patterns
 
 **Tools & Technologies Used**
 
