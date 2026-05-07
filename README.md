@@ -22,8 +22,8 @@ Toss decisions
 Venues
 The dataset spans 15 seasons, enabling long-term trend analysis
 
-##Dashboard Preview
-![Dashboard](Dashboard.png)
+**Dashboard Preview
+![Dashboard](dashboard.png)
 
 **Key Features**
 
